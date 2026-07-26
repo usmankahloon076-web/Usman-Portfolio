@@ -20,9 +20,8 @@ export const personalInfo = {
 };
 
 export const socialLinks = {
-  github: "https://github.com/Usman-Kousar",
+  github: "https://github.com/usmankahloon076-web",
   linkedin: "https://linkedin.com/in/Usman-Kousar",
-  instagram: "https://linkedin.com/in/Usman-Kousar",
 };
 
 export const heroContent = {
