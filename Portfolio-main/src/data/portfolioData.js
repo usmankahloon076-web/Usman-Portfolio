@@ -235,7 +235,7 @@ export const projects = [
       "Classification",
     ],
     links: {
-      github: "https://github.com/Usman-Kousar",
+      github: "https://github.com/usmankahloon076-web",
       demo: null,
     },
     isFlagship: true,
@@ -249,7 +249,7 @@ export const projects = [
       "A production-style NLP classification pipeline featuring tokenization, TF-IDF vectorization, and multi-model benchmarking (Naive Bayes, SVM, Logistic Regression) to detect misinformation in news text. Tuned decision boundaries on precision-recall trade-offs informed by linguistic EDA to achieve high detection accuracy.",
     techTags: ["Python", "TF-IDF", "NLP", "NLTK", "Scikit-learn", "Text Classification"],
     links: {
-      github: "https://github.com/Usman-Kousar",
+      github: "https://github.com/usmankahloon076-web",
       demo: null,
     },
     isFlagship: false,
@@ -263,7 +263,7 @@ export const projects = [
       "Predictive analytics model covering 22 multi-unit inverters across 68,700+ dataset rows. Applied regression and feature engineering to model AC/DC efficiency ratios and flag hardware anomalies via Z-score analysis. Engineered features mapping thermal stress and generation trends, reaching ~95.85% average active output efficiency.",
     techTags: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Regression", "EDA", "Anomaly Detection"],
     links: {
-      github: "https://github.com/Usman-Kousar",
+      github: "https://github.com/usmankahloon076-web",
       demo: null,
     },
     isFlagship: false,
